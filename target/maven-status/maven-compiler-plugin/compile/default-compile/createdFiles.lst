@@ -1,0 +1,9 @@
+com\davidrotabor\flight\model\Flight.class
+com\davidrotabor\flight\OpenApiConfig.class
+com\davidrotabor\flight\dao\IFlightDao.class
+com\davidrotabor\flight\exception\FlightNotFoundException.class
+com\davidrotabor\flight\controller\FlightController.class
+com\davidrotabor\flight\FlightApplication.class
+com\davidrotabor\flight\exception\ModelNotFoundException.class
+com\davidrotabor\flight\exception\InvalidRating.class
+com\davidrotabor\flight\service\FlightService.class
